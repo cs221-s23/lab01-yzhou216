@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "output test",
+      "setup": "",
+      "run": "gcc hello.c;./a.out",
+      "input": "",
+      "output": "hello cs221",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
